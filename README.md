@@ -71,8 +71,8 @@ Kode di atas adalah komponen Angular bernama HomePage yang bertindak sebagai hal
 
 # Tampilan Aplikasi
 
+![](Screenshot(269).png)
+
 ![](Screenshot(267).png)
 
 ![](Screenshot(268).png)
-
-![](Screenshot(269).png)
