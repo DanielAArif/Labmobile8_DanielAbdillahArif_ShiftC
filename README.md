@@ -68,3 +68,11 @@ Kode diatas merupakan kode antarmuka halaman utama (Home) di aplikasi Ionic.Pada
 ![](Screenshot(281).png)
 
 Kode di atas adalah komponen Angular bernama HomePage yang bertindak sebagai halaman beranda dalam aplikasi. Komponen ini memiliki properti nama, yang nilainya diambil dari AuthenticationService. AuthenticationService sendiri merupakan layanan yang mengelola proses otentikasi pengguna, termasuk menyediakan nama pengguna yang telah login. Pada bagian constructor, nama pengguna disimpan dalam properti nama. Metode logout() digunakan untuk melakukan proses logout dengan memanggil metode logout dari AuthenticationService dan mengarahkan pengguna ke halaman login menggunakan Router.
+
+# Tampilan Aplikasi
+
+![](Screenshot(267).png)
+
+![](Screenshot(268).png)
+
+![](Screenshot(269).png)
